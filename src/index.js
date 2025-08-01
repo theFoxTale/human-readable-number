@@ -1,4 +1,3 @@
-// eslint-disable-next-line consistent-return
 module.exports = function toReadable(number) {
   const numberNames = [
     'zero',
